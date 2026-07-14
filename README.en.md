@@ -9,7 +9,7 @@ A collection of custom, importable pets for ChatGPT and Codex.
 | Pet | Description |
 | --- | --- |
 | [<img src="Otti/preview.png" width="120" alt="Otti, an otter with a wooden stick">](Otti) | [**Otti – the hardworking otter**](Otti) · A friendly otter happily gnawing on a small wooden stick. |
-| [<img src="Delta/preview.png" width="120" alt="Delta, a playful golden insignia">](Delta) | [**Delta – the playful insignia**](Delta) · A Star Trek delta insignia that waves, flies, works, and makes small jokes. |
+| [<img src="Delta/preview-transparent.png" width="120" alt="Delta, a playful golden insignia">](Delta) | [**Delta – the playful insignia**](Delta) · A Star Trek delta insignia that waves, flies, works, and makes small jokes. |
 
 ## Import a pet
 
