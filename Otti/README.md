@@ -1,15 +1,8 @@
 # Otti – der fleißige Otter
 
-Otti ist ein freundlicher Otter, der begeistert an einem Holzstück nagt.
+[English version](README.en.md)
 
-## Installation
-
-1. Lade [otti-spritesheet.png](otti-spritesheet.png) herunter.
-2. Öffne die ChatGPT-App auf dem Mac.
-3. Öffne die Pet-Verwaltung und wähle **Importieren**.
-4. Wähle die heruntergeladene PNG-Datei aus und aktiviere Otti.
-
-Die Datei ist ein transparentes Sprite-Sheet mit den für ChatGPT Pets benötigten Animationszuständen.
+Otti ist ein freundlicher, neugieriger Otter, der begeistert an einem kleinen Holzstück nagt. Er winkt, läuft, springt, wartet geduldig, arbeitet konzentriert und prüft sein Ergebnis stolz mit einer Lupe.
 
 ## License
 
