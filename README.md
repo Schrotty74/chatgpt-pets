@@ -10,6 +10,7 @@ Eine Sammlung eigener, importierbarer Pets für ChatGPT und Codex.
 | --- | --- |
 | [<img src="Otti/preview.png" width="120" alt="Otti, ein Otter mit Holzstück">](Otti) | [**Otti – der fleißige Otter**](Otti) · Ein freundlicher Otter, der begeistert an einem Holzstück nagt. |
 | [<img src="Delta/preview-transparent.png" width="120" alt="Delta, ein verspieltes goldenes Abzeichen">](Delta) | [**Delta – das verspielte Abzeichen**](Delta) · Ein Star-Trek-Delta-Abzeichen, das winkt, fliegt, arbeitet und kleine Späße macht. |
+| [<img src="Cube/preview.png" width="120" alt="Cube, ein freundlicher Zauberwürfel">](Cube) | [**Cube – der Zauberwürfel**](Cube) · Ein Zauberwürfel, der bei der Arbeit sichtbar Schritt für Schritt gelöst wird. |
 
 ## Pet importieren
 
