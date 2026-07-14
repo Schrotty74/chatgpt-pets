@@ -14,3 +14,7 @@ Otti ist ein freundlicher Otter, der begeistert an einem Holzstück nagt.
 4. Wähle die heruntergeladene PNG-Datei aus und aktiviere Otti.
 
 Die Datei ist ein transparentes Sprite-Sheet mit den für ChatGPT Pets benötigten Animationszuständen.
+
+## License
+
+MIT License. See [LICENSE](LICENSE).
