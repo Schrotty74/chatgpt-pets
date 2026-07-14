@@ -1,20 +1,20 @@
 # ChatGPT Pets
 
-Eigene, importierbare Pets für ChatGPT Work.
+[English version](README.en.md)
 
-## Otti – der fleißige Otter
+Eine Sammlung eigener, importierbarer Pets für ChatGPT und Codex.
 
-Otti ist ein freundlicher Otter, der begeistert an einem Holzstück nagt.
+## Pets
 
-### Installation
+| Pet | Beschreibung |
+| --- | --- |
+| [<img src="Otti/preview.png" width="120" alt="Otti, ein Otter mit Holzstück">](Otti) | [**Otti – der fleißige Otter**](Otti) · Ein freundlicher Otter, der begeistert an einem Holzstück nagt. |
 
-1. Lade [otti-spritesheet.png](Otti/otti-spritesheet.png) herunter.
-2. Öffne die ChatGPT-App auf dem Mac.
-3. Öffne die Pet-Verwaltung und wähle **Importieren**.
-4. Wähle die heruntergeladene PNG-Datei aus und aktiviere Otti.
+## Pet importieren
 
-Die Datei ist ein transparentes Sprite-Sheet mit den für ChatGPT Pets benötigten Animationszuständen.
+1. Öffne den Ordner des gewünschten Pets.
+2. Lade dessen Sprite-Sheet-Datei herunter.
+3. Öffne ChatGPT oder Codex auf dem Mac und gehe zur Pet-Verwaltung.
+4. Wähle **Importieren**, wähle die heruntergeladene Datei aus und aktiviere das Pet.
 
-## License
-
-MIT License. See [LICENSE](LICENSE).
+Jedes Pet enthält im eigenen Ordner eine Beschreibung und die passende Datei.
