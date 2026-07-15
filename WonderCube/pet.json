@@ -1,0 +1,7 @@
+{
+  "id": "wondercube",
+  "displayName": "WonderCube",
+  "description": "A friendly puzzle cube who solves itself one thoughtful turn at a time.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
