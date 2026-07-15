@@ -1,0 +1,7 @@
+{
+  "id": "byte",
+  "displayName": "Byte",
+  "description": "A small construction robot who carries bricks, checks plans, and builds a tiny tower.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet-builder-v2.webp"
+}
