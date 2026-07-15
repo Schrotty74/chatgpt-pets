@@ -6,13 +6,10 @@ A collection of custom, importable pets for ChatGPT and Codex.
 
 ## Pets
 
-| Pet | Description |
-| --- | --- |
-| [<img src="Woodi/preview-transparent.png" width="120" alt="Woodi, an otter with a wooden stick">](Woodi/README.en.md) | [**Woodi – the playful Codex otter**](Woodi/README.en.md) · A friendly otter who accompanies Codex with a small wooden stick. |
-| [<img src="WonderCube/preview-transparent.png" width="120" alt="WonderCube, a friendly puzzle cube">](WonderCube/README.en.md) | [**WonderCube – the thoughtful puzzle cube**](WonderCube/README.en.md) · A puzzle cube that solves itself one move at a time while working. |
-| [<img src="Delta/preview-transparent.png" width="120" alt="Delta, a playful sci-fi delta badge">](Delta/README.en.md) | [**Delta – the playful sci-fi delta**](Delta/README.en.md) · An original sci-fi delta badge that waves, hovers, works, and reacts humorously to errors. |
-| [<img src="Byte/preview-transparent.png" width="120" alt="Byte, a small construction robot">](Byte/README.en.md) | [**Byte – the construction robot**](Byte/README.en.md) · A small robot that carefully assembles building blocks while working. |
-| [<img src="MischiefDuo/preview-transparent.png" width="120" alt="MischiefDuo, a cat and mouse">](MischiefDuo/README.en.md) | [**MischiefDuo – cat and mouse**](MischiefDuo/README.en.md) · An original retro slapstick pair that gets into tiny comic situations as one shared pet. |
+| [**Woodi**](Woodi/README.en.md) | [**WonderCube**](WonderCube/README.en.md) | [**Delta**](Delta/README.en.md) | [**Byte**](Byte/README.en.md) | [**MischiefDuo**](MischiefDuo/README.en.md) |
+| --- | --- | --- | --- | --- |
+| [<img src="Woodi/preview-transparent.png" width="150" alt="Woodi, an otter with a wooden stick">](Woodi/README.en.md) | [<img src="WonderCube/preview-transparent.png" width="150" alt="WonderCube, a friendly puzzle cube">](WonderCube/README.en.md) | [<img src="Delta/preview-transparent.png" width="150" alt="Delta, a playful sci-fi delta badge">](Delta/README.en.md) | [<img src="Byte/preview-transparent.png" width="150" alt="Byte, a small construction robot">](Byte/README.en.md) | [<img src="MischiefDuo/preview-transparent.png" width="150" alt="MischiefDuo, a cat and mouse">](MischiefDuo/README.en.md) |
+| An otter with a small wooden stick. | A puzzle cube that solves itself while working. | A friendly badge that waves and works at a control panel. | A robot carefully assembling a small tower. | A retro slapstick cat-and-mouse pair. |
 
 ## Import a pet
 

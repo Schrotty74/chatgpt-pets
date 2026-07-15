@@ -6,13 +6,10 @@ Eine Sammlung eigener, importierbarer Pets für ChatGPT und Codex.
 
 ## Pets
 
-| Pet | Beschreibung |
-| --- | --- |
-| [<img src="Woodi/preview-transparent.png" width="120" alt="Woodi, ein Otter mit Holzstück">](Woodi) | [**Woodi – der verspielte Codex-Otter**](Woodi) · Ein freundlicher Otter, der Codex mit einem kleinen Holzstück begleitet. |
-| [<img src="WonderCube/preview-transparent.png" width="120" alt="WonderCube, ein freundlicher Zauberwürfel">](WonderCube) | [**WonderCube – der denkende Zauberwürfel**](WonderCube) · Ein Zauberwürfel, der sich beim Arbeiten Schritt für Schritt löst. |
-| [<img src="Delta/preview-transparent.png" width="120" alt="Delta, ein verspieltes Sci-Fi-Delta-Abzeichen">](Delta) | [**Delta – das verspielte Sci-Fi-Delta**](Delta) · Ein freundliches Delta-Abzeichen, das winkt, schwebt und am Kontrollpult arbeitet. |
-| [<img src="Byte/preview-transparent.png" width="120" alt="Byte, ein kleiner Bauroboter">](Byte) | [**Byte – der kleine Bauroboter**](Byte) · Ein kleiner Roboter, der Bausteine trägt und konzentriert einen Turm baut. |
-| [<img src="MischiefDuo/preview-transparent.png" width="120" alt="MischiefDuo, Katze und Maus">](MischiefDuo) | [**MischiefDuo – Katze und Maus**](MischiefDuo) · Ein originales Retro-Slapstick-Duo, das als gemeinsames Pet Unsinn macht. |
+| [**Woodi**](Woodi) | [**WonderCube**](WonderCube) | [**Delta**](Delta) | [**Byte**](Byte) | [**MischiefDuo**](MischiefDuo) |
+| --- | --- | --- | --- | --- |
+| [<img src="Woodi/preview-transparent.png" width="150" alt="Woodi, ein Otter mit Holzstück">](Woodi) | [<img src="WonderCube/preview-transparent.png" width="150" alt="WonderCube, ein freundlicher Zauberwürfel">](WonderCube) | [<img src="Delta/preview-transparent.png" width="150" alt="Delta, ein verspieltes Sci-Fi-Delta-Abzeichen">](Delta) | [<img src="Byte/preview-transparent.png" width="150" alt="Byte, ein kleiner Bauroboter">](Byte) | [<img src="MischiefDuo/preview-transparent.png" width="150" alt="MischiefDuo, Katze und Maus">](MischiefDuo) |
+| Ein Otter mit einem kleinen Holzstück. | Ein Würfel, der sich beim Arbeiten löst. | Ein winkendes Delta-Abzeichen am Kontrollpult. | Ein Roboter, der konzentriert einen Turm baut. | Ein Retro-Slapstick-Duo, das Unsinn macht. |
 
 ## Pet importieren
 
