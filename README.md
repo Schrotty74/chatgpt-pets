@@ -10,7 +10,6 @@ Eine Sammlung eigener, importierbarer Pets für ChatGPT und Codex.
 | --- | --- |
 | [<img src="Woodi/preview-transparent.png" width="120" alt="Woodi, ein Otter mit Holzstück">](Woodi) | [**Woodi – der verspielte Codex-Otter**](Woodi) · Ein freundlicher Otter, der Codex mit einem kleinen Holzstück begleitet. |
 | [<img src="WonderCube/preview-transparent.png" width="120" alt="WonderCube, ein freundlicher Zauberwürfel">](WonderCube) | [**WonderCube – der denkende Zauberwürfel**](WonderCube) · Ein Zauberwürfel, der sich beim Arbeiten Schritt für Schritt löst. |
-| [<img src="Byte/preview.png" width="120" alt="Byte, ein kleiner Bauroboter">](Byte) | [**Byte – der Bauroboter**](Byte) · Ein kleiner Roboter, der während der Arbeit konzentriert Bausteine zusammensetzt. |
 
 ## Pet importieren
 
