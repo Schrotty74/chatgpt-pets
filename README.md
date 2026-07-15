@@ -10,7 +10,6 @@ Eine Sammlung eigener, importierbarer Pets für ChatGPT und Codex.
 | --- | --- |
 | [<img src="Woodi/preview-transparent.png" width="120" alt="Woodi, ein Otter mit Holzstück">](Woodi) | [**Woodi – der verspielte Codex-Otter**](Woodi) · Ein freundlicher Otter, der Codex mit einem kleinen Holzstück begleitet. |
 | [<img src="Delta/preview-transparent.png" width="120" alt="Delta, ein verspieltes goldenes Abzeichen">](Delta) | [**Delta – das verspielte Abzeichen**](Delta) · Ein Star-Trek-Delta-Abzeichen, das winkt, fliegt, arbeitet und kleine Späße macht. |
-| [<img src="Cube/preview.png" width="120" alt="Cube, ein freundlicher Zauberwürfel">](Cube) | [**Cube – der Zauberwürfel**](Cube) · Ein Zauberwürfel, der bei der Arbeit sichtbar Schritt für Schritt gelöst wird. |
 | [<img src="Byte/preview.png" width="120" alt="Byte, ein kleiner Bauroboter">](Byte) | [**Byte – der Bauroboter**](Byte) · Ein kleiner Roboter, der während der Arbeit konzentriert Bausteine zusammensetzt. |
 
 ## Pet importieren
