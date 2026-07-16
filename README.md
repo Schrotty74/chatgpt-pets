@@ -15,5 +15,5 @@ Eine Sammlung eigener, importierbarer Pets für ChatGPT und Codex.
 
 1. Öffne den Ordner des gewünschten Pets.
 2. Lade dessen Sprite-Sheet-Datei herunter.
-3. Öffne ChatGPT oder Codex zB am Mac und gehe zur Pet-Verwaltung. Das geht auch zum Beispiel auf iPhone oder iPad.
+3. Öffne ChatGPT oder Codex zB und gehe zur Pet (Haustier) Verwaltung. 
 4. Wähle **Importieren**, wähle die heruntergeladene Datei aus und aktiviere das Pet.
