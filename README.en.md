@@ -15,5 +15,5 @@ A collection of custom, importable pets for ChatGPT and Codex.
 
 1. Open the folder of the pet you want.
 2. Download its sprite-sheet file.
-3. Open ChatGPT or Codex and go to Pet management. You can also do this in the ChatGPT app, for example on iPhone or iPad.
+3. Open ChatGPT or Codex and go to Pet management.
 4. Choose **Import**, select the downloaded file, and activate the pet.
