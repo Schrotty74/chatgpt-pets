@@ -1,0 +1,7 @@
+{
+  "id": "inky",
+  "displayName": "Inky",
+  "description": "A playful octopus who wiggles its arms and shifts color to match what Codex is doing.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "inky-spritesheet.webp"
+}
