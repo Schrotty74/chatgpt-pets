@@ -6,9 +6,9 @@ A collection of custom, importable pets for ChatGPT and Codex.
 
 ## Pets
 
-| [**Woodi**](Woodi/README.en.md) | [**WonderCube**](WonderCube/README.en.md) | [**Delta**](Delta/README.en.md) | [**Byte**](Byte/README.en.md) | [**MischiefDuo**](MischiefDuo/README.en.md) |
+| [**Woodi**](Woodi/README.en.md) | [**WonderCube**](WonderCube/README.en.md) | [**Delta**](Delta/README.en.md) | [**Byte**](Byte/README.en.md) | [**Whiskers & Squeak**](MischiefDuo/README.en.md) |
 | --- | --- | --- | --- | --- |
-| [<img src="Woodi/preview-transparent.png" width="150" alt="Woodi, an otter with a wooden stick">](Woodi/README.en.md) | [<img src="WonderCube/preview-transparent.png" width="150" alt="WonderCube, a friendly puzzle cube">](WonderCube/README.en.md) | [<img src="Delta/preview-transparent.png" width="150" alt="Delta, a playful sci-fi delta badge">](Delta/README.en.md) | [<img src="Byte/preview-transparent.png" width="150" alt="Byte, a small construction robot">](Byte/README.en.md) | [<img src="MischiefDuo/preview-transparent.png" width="150" alt="MischiefDuo, a cat and mouse">](MischiefDuo/README.en.md) |
+| [<img src="Woodi/preview-transparent.png" width="150" alt="Woodi, an otter with a wooden stick">](Woodi/README.en.md) | [<img src="WonderCube/preview-transparent.png" width="150" alt="WonderCube, a friendly puzzle cube">](WonderCube/README.en.md) | [<img src="Delta/preview-transparent.png" width="150" alt="Delta, a playful sci-fi delta badge">](Delta/README.en.md) | [<img src="Byte/preview-transparent.png" width="150" alt="Byte, a small construction robot">](Byte/README.en.md) | [<img src="MischiefDuo/preview-transparent.png" width="150" alt="Whiskers & Squeak, a cat and mouse">](MischiefDuo/README.en.md) |
 | An otter with a small wooden stick. | A puzzle cube that solves itself while working. | A friendly badge that waves and works at a control panel. | A robot carefully assembling a small tower. | A retro slapstick cat-and-mouse pair. |
 
 ## Import a pet
