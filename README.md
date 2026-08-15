@@ -1,8 +1,8 @@
-# ChatGPT Pets
+# ChatGPT Pets – Custom Animated Pets for ChatGPT & Codex
 
 [English version](README.en.md)
 
-Eine Sammlung eigener, importierbarer Pets für ChatGPT und Codex.
+Eine Sammlung eigener, importierbarer und animierter Pets für ChatGPT und Codex.
 
 ## Pets
 
