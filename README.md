@@ -17,3 +17,7 @@ Eine Sammlung eigener, importierbarer und animierter Pets für ChatGPT und Codex
 2. Lade dessen Sprite-Sheet-Datei herunter.
 3. Öffne ChatGPT oder Codex und gehe zur Pet (Haustier) Verwaltung. 
 4. Wähle **Importieren**, wähle die heruntergeladene Datei aus und aktiviere das Pet.
+
+## Repo activity
+
+![Repobeats analytics image](https://repobeats.axiom.co/api/embed/eaa8f49ac32dac36e7e5c74f17b4a3aab1ac1eec.svg "Repobeats analytics image")
