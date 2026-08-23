@@ -1,16 +1,23 @@
-# Vorlage für einen neuen Codex-Chat
+# Chat-Startvorlage – chatgpt-pets
 
-Arbeite ausschließlich in diesem Repository.
+Ich arbeite am Projekt **chatgpt-pets**.
 
-Lies vor jeder Änderung zuerst:
+Projekt-Root:
+`Repository-Root`
 
-1. `PROJECT_CONTEXT.md`
-2. `NEXT_STEPS.md`
-3. bei einer Veröffentlichung zusätzlich `PORTFOLIO_UPDATE.md`
+Repository:
+https://github.com/Schrotty74/chatgpt-pets
+
+Bitte lies vor Beginn:
+
+1. `AGENTS.md`
+2. `PROJECT_CONTEXT.md`
+3. `NEXT_STEPS.md`
+4. Bei einer Veröffentlichung zusätzlich `PORTFOLIO_UPDATE.md`
 
 Prüfe anschließend die betroffenen `pet.json`-Dateien, die zugehörigen deutschen und englischen Pet-Beschreibungen sowie beide Übersichtsseiten.
 
-Wichtige Änderungen müssen in `PROJECT_CONTEXT.md` und `NEXT_STEPS.md` nachgeführt werden. Keine Fakten, Testergebnisse oder offenen Aufgaben erfinden.
+Prüfe vor Aussagen oder Änderungen den tatsächlichen Projektzustand. Wichtige Änderungen müssen in `PROJECT_CONTEXT.md` und `NEXT_STEPS.md` nachgeführt werden. Keine Fakten, Testergebnisse oder offenen Aufgaben erfinden.
 
 Schutzregeln:
 
@@ -18,3 +25,7 @@ Schutzregeln:
 - Öffentliche Namen ausschließlich als `Schrotty74` verwenden.
 - Keine Versionsnummern, Releases, Tags, Commits oder Pushes erstellen, sofern nicht ausdrücklich beauftragt.
 - Bestehende Pets nur innerhalb des konkret beauftragten Umfangs ändern.
+
+Aktueller Auftrag:
+
+<Aktueller Auftrag>
