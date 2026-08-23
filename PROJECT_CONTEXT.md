@@ -1,9 +1,5 @@
 # Projektkontext: ChatGPT Pets
 
-## Zuerst lesen
-
-Neue Chats lesen zuerst diese Datei und danach [NEXT_STEPS.md](NEXT_STEPS.md). Für Veröffentlichungen ist zusätzlich [PORTFOLIO_UPDATE.md](PORTFOLIO_UPDATE.md) maßgeblich. Die öffentlichen Beschreibungen der einzelnen Pets liegen jeweils in deren Ordnern.
-
 ## Zweck
 
 Dieses Repository enthält eigene, importierbare animierte Pets für ChatGPT und Codex. Jedes Pet ist als eigener Ordner mit einer Beschreibung, einer Vorschau, einem Manifest und einem Sprite-Sheet abgelegt.
