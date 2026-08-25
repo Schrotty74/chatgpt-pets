@@ -15,15 +15,14 @@ Bitte lies vor Beginn:
 3. `NEXT_STEPS.md`
 4. Bei einer Veröffentlichung zusätzlich `PORTFOLIO_UPDATE.md`
 
+Die verbindlichen allgemeinen Arbeits-, Git-, Veröffentlichungs- und Repository-Datenschutzregeln stehen in `AGENTS.md` und gelten vollständig.
+
 Prüfe anschließend die betroffenen `pet.json`-Dateien, die zugehörigen deutschen und englischen Pet-Beschreibungen sowie beide Übersichtsseiten.
 
-Prüfe vor Aussagen oder Änderungen den tatsächlichen Projektzustand. Wichtige Änderungen müssen in `PROJECT_CONTEXT.md` und `NEXT_STEPS.md` nachgeführt werden. Keine Fakten, Testergebnisse oder offenen Aufgaben erfinden.
+Prüfe vor Aussagen oder Änderungen den tatsächlichen Projektzustand. Wichtige Änderungen müssen in `PROJECT_CONTEXT.md` und `NEXT_STEPS.md` nachgeführt werden.
 
-Schutzregeln:
+chatgpt-pets-spezifisch:
 
-- Keine privaten Dateien, lokalen Pfade, Zugangsdaten, Tokens, Backups oder echten Testdaten dokumentieren oder veröffentlichen.
-- Öffentliche Namen ausschließlich als `Schrotty74` verwenden.
-- Keine Versionsnummern, Releases, Tags, Commits oder Pushes erstellen, sofern nicht ausdrücklich beauftragt.
 - Bestehende Pets nur innerhalb des konkret beauftragten Umfangs ändern.
 
 Aktueller Auftrag:
