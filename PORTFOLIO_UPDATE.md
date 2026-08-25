@@ -10,5 +10,6 @@ project, check whether the central portfolio needs an update:
 Update the relevant project card when its name, description, status, preview
 images, repository link or available downloads changed.
 
-Do not publish private user data, personal files, logs, backups, licence keys
-or screenshots containing real data. Use only public assets and demo data.
+The repository-wide privacy and publication rules in `AGENTS.md` apply to all
+portfolio material. Public screenshots and example data must use only synthetic,
+anonymized or clearly fictional data.
