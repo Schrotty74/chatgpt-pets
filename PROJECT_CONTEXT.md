@@ -1,5 +1,7 @@
 # Projektkontext: ChatGPT Pets
 
+Die allgemeinen Arbeits-, Git-, Veröffentlichungs- und Repository-Datenschutzregeln stehen verbindlich in `AGENTS.md`. Diese Datei enthält den projektspezifischen technischen und funktionalen Kontext.
+
 ## Zweck
 
 Dieses Repository enthält eigene, importierbare animierte Pets für ChatGPT und Codex. Jedes Pet ist als eigener Ordner mit einer Beschreibung, einer Vorschau, einem Manifest und einem Sprite-Sheet abgelegt.
@@ -55,9 +57,6 @@ Enthalten sind Woodi, WonderCube, Delta, Byte, Whiskers & Squeak, Inky und Finde
 
 Die aktuelle Funktionsfähigkeit der Sprite-Sheets in jeder ChatGPT- oder Codex-Version ist im Repository nicht automatisiert dokumentiert. Konkrete offene Bugs oder fehlende Pets sind derzeit nicht dokumentiert.
 
-## Datenschutz und Veröffentlichung
+## Veröffentlichung
 
-- Keine privaten Dateien, Logs, Backups, Zugangsdaten, Tokens oder Screenshots mit echten Daten ins Repository aufnehmen.
-- Nur öffentliche Assets und Demo-Inhalte veröffentlichen.
-- Bei öffentlichen Namen ausschließlich `Schrotty74` verwenden.
-- Vor einer öffentlichen Veröffentlichung oder bedeutenden Erweiterung die Portfolio-Regel beachten.
+Vor einer öffentlichen Veröffentlichung oder bedeutenden Erweiterung die Portfolio-Regel beachten. Für alle öffentlichen Inhalte gelten die Datenschutz- und Veröffentlichungsregeln aus `AGENTS.md`.
