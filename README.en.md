@@ -17,3 +17,7 @@ A collection of custom, importable pets for ChatGPT and Codex.
 2. Download its sprite-sheet file.
 3. Open ChatGPT or Codex and go to Pet management.
 4. Choose **Import**, select the downloaded file, and activate the pet.
+
+## Community
+
+Questions, feedback and discussions are welcome on [Discord](https://discord.gg/Zy93AaYFaj).
