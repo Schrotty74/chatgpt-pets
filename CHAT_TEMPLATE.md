@@ -23,7 +23,8 @@ Prüfe vor Aussagen oder Änderungen den tatsächlichen Projektzustand. Wichtige
 
 chatgpt-pets-spezifisch:
 
-- Bestehende Pets nur innerhalb des konkret beauftragten Umfangs ändern.
+
+- Die Pflege- und Prüfregeln für Pets stehen in `PROJECT_CONTEXT.md`.
 
 Aktueller Auftrag:
 
