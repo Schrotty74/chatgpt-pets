@@ -1,0 +1,7 @@
+{
+  "id": "nyx",
+  "displayName": "Nyx",
+  "description": "A small black robot with cyan eyes and bat wings.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "nyx-spritesheet.webp"
+}

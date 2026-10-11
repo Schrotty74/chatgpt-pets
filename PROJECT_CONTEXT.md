@@ -43,7 +43,7 @@ Vor einer Änderung an einem Pet mindestens prüfen:
 
 ## Umgesetzter Stand
 
-Enthalten sind Woodi, WonderCube, Delta, Byte, Whiskers & Squeak, Inky und Finder Guy. Jedes dieser Pets besitzt ein V2-Manifest und ein referenziertes WebP-Sprite-Sheet.
+Enthalten sind Woodi, WonderCube, Delta, Byte, Whiskers & Squeak, Inky, Finder Guy und Nyx. Jedes dieser Pets besitzt ein V2-Manifest und ein referenziertes WebP-Sprite-Sheet.
 
 ## Entscheidungen und feste Regeln
 

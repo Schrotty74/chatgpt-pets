@@ -1,6 +1,6 @@
 # Nächste Schritte
 
-Stand: 2026-07-23
+Stand: 2026-10-11
 
 ## Aktueller Status
 
